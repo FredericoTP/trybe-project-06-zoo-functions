@@ -23,5 +23,3 @@ function calculateEntry(entrants) {
 }
 
 module.exports = { calculateEntry, countEntrants };
-
-// console.log(calculateEntry({}));
