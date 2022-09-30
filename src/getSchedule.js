@@ -2,7 +2,6 @@ const data = require('../data/zoo_data');
 
 const { species } = data;
 const { hours } = data;
-// const { Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday } = hours;
 
 const getScheduleAnimal = (scheduleTarget) => {
   const nameAnimal = species.find((specie) => specie.name === scheduleTarget);
@@ -62,10 +61,3 @@ function getSchedule(scheduleTarget) {
 }
 
 module.exports = getSchedule;
-
-console.log(getSchedule('Sundayasdas'));
-// console.log(getScheduleAnimal('lions'))
-// getScheduleAllDays();
-// console.log(getAnimalDays('Sunday'));
-// console.log(getHourDays('Sunday'));
-// console.log(getScheduleDay('Sunday'));
