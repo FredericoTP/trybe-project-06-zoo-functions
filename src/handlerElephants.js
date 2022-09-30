@@ -34,5 +34,3 @@ const handlerElephants = (param) => {
 };
 
 module.exports = handlerElephants;
-
-console.log(handlerElephants('aver'));
