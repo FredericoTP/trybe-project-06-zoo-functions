@@ -1,6 +1,6 @@
 # :construction: README em construção ! :construction:
 
-# :computer: Trybe-03-Project-Pixels-Art :computer:
+# :computer: Trybe-06-Project-Zoo-Functions :computer:
 
 Nesse projeto desenvolvi funções que buscam informações sobre os animais de um zoológico como: espécie e local de origem, e que buscam dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. Além disso, foram implementados testes para funções já existentes, percebendo os casos de uso da aplicação e garantindo que ela está funcionando da maneira correta!
 
