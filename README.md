@@ -1,5 +1,3 @@
-# :construction: README em construção ! :construction:
-
 # :computer: Trybe-06-Project-Zoo-Functions :computer:
 
 Nesse projeto desenvolvi funções que buscam informações sobre os animais de um zoológico como: espécie e local de origem, e que buscam dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. Além disso, foram implementados testes para funções já existentes, percebendo os casos de uso da aplicação e garantindo que ela está funcionando da maneira correta!
@@ -860,8 +858,9 @@ Essa função retorna informações referentes aos elefantes conforme o argument
 </details>
 
 </details>
-<br />
 
 ## 2- Nota do Projeto
 
 ## 100% :heavy_check_mark:
+
+![Project-Zoo-Functions-Grade](https://github.com/FredericoTP/trybe-project-06-zoo-functions/blob/main/images/zoofunctions-grade.png?raw=true)
